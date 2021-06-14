@@ -1,0 +1,22 @@
+input, select{
+  box-sizing: border-box;
+}
+
+.modal-header h5 {
+  color: black;
+}
+
+
+.form-group {
+  text-align: initial;
+}
+
+.form-group label {
+  color: black !important;
+  font-size: 1.125rem;
+}
+
+.form-group small{
+  color: red !important;
+  font-size: 0.875rem;
+}
